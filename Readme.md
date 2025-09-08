@@ -1,5 +1,11 @@
 # Github
 
+## Este repositório tem fins educativos.
+
+
+
+
+
 Arquivo da aula de Git e Github para iniciantes
 Este é um repositório teste
 Testes
